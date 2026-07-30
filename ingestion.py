@@ -20,8 +20,10 @@ if __name__ == '__main__':
 
     print(f"created {len(texts)} chunks")
 
-    embeddings = OllamaEmbeddings(model="qwen3:1.7b")
+    embeddings = OllamaEmbeddings(model="qwen3-embedding:0.6b")
 
     print("ingesting...")
 
     PineconeVectorStore.from_documents(texts, embeddings, index_name=os.environ["INDEX_NAME"])
+
+    print("finish")

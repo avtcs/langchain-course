@@ -5,85 +5,97 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="add9d696-43df-4046-bd6d-cd85b60b683c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.python-version" beforeDir="false" afterPath="$PROJECT_DIR$/.python-version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ingestion.py" beforeDir="false" afterPath="$PROJECT_DIR$/ingestion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uv.lock" beforeDir="false" afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="2.074608416659686" />
-      <entry key="MS500" value="5.208776436970298" />
-      <entry key="S2" value="12.154474648262125" />
-      <entry key="S5" value="18.545444073205864" />
-      <entry key="S10" value="23.291998346873953" />
-      <entry key="S30" value="31.011965420840347" />
-      <entry key="S60" value="38.01946355558245" />
-      <entry key="M2" value="48.673514334107246" />
-      <entry key="M5" value="77.46034015752976" />
-      <entry key="M10" value="113.71776402460053" />
-      <entry key="M15" value="138.40313109191584" />
-      <entry key="M30" value="205.44138477256064" />
-      <entry key="H1" value="328.43234326269607" />
-      <entry key="H2" value="468.8710477521716" />
-      <entry key="H4" value="578.4759950018507" />
-      <entry key="D1" value="699.7225598323361" />
-      <entry key="W1" value="723.8692471518826" />
+      <entry key="MS100" value="1.6893260727935555" />
+      <entry key="MS500" value="3.521808755786393" />
+      <entry key="S2" value="5.873386370877873" />
+      <entry key="S5" value="6.991480101839979" />
+      <entry key="S10" value="7.4643312628666125" />
+      <entry key="S30" value="7.81390867096685" />
+      <entry key="S60" value="7.905976078084693" />
+      <entry key="M2" value="7.956704502623285" />
+      <entry key="M5" value="9.339914532885452" />
+      <entry key="M10" value="23.22057407021902" />
+      <entry key="M15" value="47.5615024587606" />
+      <entry key="M30" value="134.0193999432069" />
+      <entry key="H1" value="292.12620780537833" />
+      <entry key="H2" value="498.46976925266375" />
+      <entry key="H4" value="683.7713967588837" />
+      <entry key="D1" value="913.6844054703216" />
+      <entry key="W1" value="962.5413707514467" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.18337562177952E-43" />
-      <entry key="MS500" value="2.597912524548184E-9" />
-      <entry key="S2" value="0.007139308204917189" />
-      <entry key="S5" value="0.13850404350465914" />
-      <entry key="S10" value="0.3721659781235297" />
-      <entry key="S30" value="0.73887449629322" />
-      <entry key="S60" value="1.041369732276043" />
-      <entry key="M2" value="1.6779581429420551" />
-      <entry key="M5" value="3.108302682931721" />
-      <entry key="M10" value="4.1998459052309824" />
-      <entry key="M15" value="4.727127032592044" />
-      <entry key="M30" value="5.707468715491984" />
-      <entry key="H1" value="7.208082369708681" />
-      <entry key="H2" value="8.887383287459272" />
-      <entry key="H4" value="10.2006030907985" />
-      <entry key="D1" value="11.658988040951167" />
-      <entry key="W1" value="11.950164672735246" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="7.306336917283698E-221" />
+      <entry key="S5" value="9.047161469348696E-89" />
+      <entry key="S10" value="1.251361991472773E-44" />
+      <entry key="S30" value="6.710280507718585E-15" />
+      <entry key="S60" value="2.1151536136492137E-7" />
+      <entry key="M2" value="0.0012315696534947397" />
+      <entry key="M5" value="0.24745242019598862" />
+      <entry key="M10" value="1.8227444289269763" />
+      <entry key="M15" value="3.9887414255371816" />
+      <entry key="M30" value="9.84429196599508" />
+      <entry key="H1" value="16.851264037845134" />
+      <entry key="H2" value="23.173662193442535" />
+      <entry key="H4" value="27.781812344017606" />
+      <entry key="D1" value="32.820216502300866" />
+      <entry key="W1" value="33.827425801348156" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="2.025153914115319" />
-      <entry key="MS500" value="5.175491541094757" />
-      <entry key="S2" value="12.12798468762341" />
-      <entry key="S5" value="18.587689862587418" />
-      <entry key="S10" value="23.54033081607917" />
-      <entry key="S30" value="31.649660804038728" />
-      <entry key="S60" value="38.97425324784441" />
-      <entry key="M2" value="50.274602862825894" />
-      <entry key="M5" value="80.50993131382981" />
-      <entry key="M10" value="117.87689785421605" />
-      <entry key="M15" value="143.09930279479423" />
-      <entry key="M30" value="211.1305714934576" />
-      <entry key="H1" value="335.6299235752731" />
-      <entry key="H2" value="477.7525686739841" />
-      <entry key="H4" value="588.6734471060422" />
-      <entry key="D1" value="711.3809837090178" />
-      <entry key="W1" value="735.8193301385128" />
+      <entry key="MS100" value="1.6271311369306352" />
+      <entry key="MS500" value="3.447135597089922" />
+      <entry key="S2" value="5.8218231936763125" />
+      <entry key="S5" value="6.9655367059318225" />
+      <entry key="S10" value="7.4503047122368455" />
+      <entry key="S30" value="7.808980696166792" />
+      <entry key="S60" value="7.903479540445868" />
+      <entry key="M2" value="7.956652461646724" />
+      <entry key="M5" value="9.584161397809742" />
+      <entry key="M10" value="25.031545794088043" />
+      <entry key="M15" value="51.532555641294735" />
+      <entry key="M30" value="143.84126990743474" />
+      <entry key="H1" value="308.95824654405146" />
+      <entry key="H2" value="521.6303992702542" />
+      <entry key="H4" value="711.5455165048736" />
+      <entry key="D1" value="946.5031356927752" />
+      <entry key="W1" value="996.3685785596692" />
     </decayedShown>
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;git-widget-placeholder&quot;: &quot;project/rag-gist&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.ingestion.executor": "Run",
+    "Python.main.executor": "Run",
+    "git-widget-placeholder": "project/rag-gist",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
-}</component>
+}]]></component>
   <component name="TaskManager">
     <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/langchain_course$ingestion.coverage" NAME="ingestion Coverage Results" MODIFIED="1785436195296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/langchain_course$main.coverage" NAME="main Coverage Results" MODIFIED="1785437483592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
