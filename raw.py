@@ -39,16 +39,16 @@ tools_for_llm = [
         "type": "function",
         "function": {
             "name": "get_product_price",
-            "description": "Look up the price of a product in the catalog",
+            "description": "Look up the price of a product in the catalog.",
             "parameters": {
                 "type": "object",
                 "properties": {
                     "product": {
                         "type": "string",
-                        "description": "The product name, e.g. 'laptop', 'headphones', 'keyboard'"
+                        "description": "The product name, e.g. 'laptop', 'headphones', 'keyboard'",
                     },
                 },
-                "required": ["product"]
+                "required": ["product"],
             },
         },
     },
@@ -135,10 +135,12 @@ def run_agent(question: str):
         print(f"  [Tool Result] {observation}")
 
         messages.append(ai_message)
-        messages.append({
-            "role": "system",
-            "content": str(observation),
-        })
+        messages.append(
+            {
+                "role": "tool",
+                "content": str(observation),
+            }
+        )
 
     print("ERROR: Max iterations reached without a final answer")
 
